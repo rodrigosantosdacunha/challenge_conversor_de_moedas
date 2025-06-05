@@ -14,3 +14,5 @@ Real Brasileiro (BRL) ➡️ Libra Esterlina (GBP)
 À Prova de Erros: Digitou algo errado? A internet caiu? Relaxa! O código é preparado pra lidar com essas zicas, te dando uma mensagem clara do que rolou.
 Código Organizado que é Uma Belezura: Feito com muito carinho e seguindo os princípios de Orientação a Objetos. As classes são bem definidas, facilitando a vida de quem quiser entender ou até dar uma mãozinha no projeto.
 #challenge_conversor_de_moedas
+#alura
+#ONE Oracle Next Education
